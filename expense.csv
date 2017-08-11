@@ -1,0 +1,49 @@
+Period,Item,Expense,Type
+1/1/17,Rental of apartment,7300,Rent
+1/1/17,Loan from bank A,7500,Loan
+1/1/17,Seafood and such,4000,Groceries
+1/1/17,Train tickets,1500,Transport
+1/1/17,NA,800,Others
+1/1/17,Saving for January,400,Savings
+2/1/17,Rental of apartment,7300,Rent
+2/1/17,Loan from bank B,7000,Loan
+2/1/17,"Meat, dairy and such",3000,Groceries
+2/1/17,Bus tickets,800,Transport
+2/1/17,NA,2000,Others
+2/1/17,Saving for  February,1400,Savings
+3/1/17,Rental of apartment,7300,Rent
+3/1/17,Loan from bank C,7500,Loan
+3/1/17,Vegetarian and such,2500,Groceries
+3/1/17,Bus tickets,1200,Transport
+3/1/17,NA,500,Others
+3/1/17,Saving for  March,2500,Savings
+4/1/17,Rental of apartment,7300,Rent
+4/1/17,Loan from bank B,8500,Loan
+4/1/17,Whole grains and such,3000,Groceries
+4/1/17,Airplane tickets,2000,Transport
+4/1/17,NA,1000,Others
+4/1/17,Saving for  April,-300,Savings
+5/1/17,Rental of apartment,7300,Rent
+5/1/17,Loan from bank D,7000,Loan
+5/1/17,"Meat, dairy and such",2000,Groceries
+5/1/17,Train and Bus tickets,2300,Transport
+5/1/17,NA,200,Others
+5/1/17,Saving for  May,2700,Savings
+6/1/17,Rental of apartment,7300,Rent
+6/1/17,Loan from bank A,7500,Loan
+6/1/17,"Clayfish, party and such",4000,Groceries
+6/1/17,Train tickets,1400,Transport
+6/1/17,NA,900,Others
+6/1/17,Saving for  June,400,Savings
+7/1/17,Rental of apartment,7300,Rent
+7/1/17,Loan from bank B,7000,Loan
+7/1/17,"Seafood, poultry and such",3500,Groceries
+7/1/17,Bus tickets,500,Transport
+7/1/17,NA,1200,Others
+7/1/17,Saving for  July,2000,Savings
+8/1/17,Rental of apartment,7300,Rent
+8/1/17,Loan from bank C,8000,Loan
+8/1/17,"Milk, eggs and such",3500,Groceries
+8/1/17,Bus tickets,800,Transport
+8/1/17,NA,1200,Others
+8/1/17,Saving for  August,700,Savings
