@@ -34,11 +34,11 @@
 
 /* Styles for Title Slide */
 .title-slide hgroup > h1{
-  font-family: 'Oswald', sans-serif;
+  font-family: "Open Sans Condensed", 'Oswald', sans-serif;
 }
 
 .title-slide hgroup > h2{
-  font-family: 'Oswald', 'Calibri', sans-serif;
+  font-family: 'Calibri', sans-serif;
 }
 
 /* Fonts and Spacing */
@@ -358,7 +358,7 @@ pre code {
 }
 
 .title-slide hgroup > h1{
- font-family: 'Oswald', 'Helvetica', sanserif; 
+ font-family: "Open Sans Condensed", sanserif; 
 }
 
 .title-slide hgroup > h1, 
